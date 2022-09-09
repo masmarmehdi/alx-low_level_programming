@@ -8,11 +8,11 @@
 int main(void)
 {
 	char ch;
-	
+
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		int lowerchar = tolower(ch);
-		
+
 		putchar(lowerchar);
 	}
 	for (ch = 'A'; ch <= 'Z'; ch++)
