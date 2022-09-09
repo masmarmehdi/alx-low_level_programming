@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * This is the main file
+ * main - main file
  * Treating cases
- * Return 0: (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
