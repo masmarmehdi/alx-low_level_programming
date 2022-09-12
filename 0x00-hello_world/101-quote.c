@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - writes 
+ * main - writes
  *
  * Return: Always 0 (Success)
  */
