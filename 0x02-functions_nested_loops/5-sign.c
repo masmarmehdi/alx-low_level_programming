@@ -3,7 +3,7 @@
  * print_sign - check main
  * @n: int argument
  * Description: printing sign depends on the number
- * Return 0 if n is zero, 1 if n is more than 0 and -1 if less than 0
+ * Return: 0 if n is zero, 1 if n is more than 0 and -1 if less than 0
  */
 int print_sign(int n)
 {
