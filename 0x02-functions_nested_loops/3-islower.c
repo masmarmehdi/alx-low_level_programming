@@ -2,6 +2,7 @@
 /**
  * islower - int function
  * @c: an int argument
+ * Description: checking if lowercase
  * islower
  * Return: 1 if the argument is lowercase or 0 if not
  */
