@@ -12,7 +12,7 @@ int _atoi(char *s)
 	int i;
 	int sign = 1;
 	int digit = 0;
-	
+
 	while (s[len] != '\0')
 	{
 		len++;
@@ -38,5 +38,5 @@ int _atoi(char *s)
 	{
 		num = -num;
 	}
-	return num;
+	return (num);
 }
