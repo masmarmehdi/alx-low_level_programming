@@ -33,7 +33,7 @@ int is_number(char number[])
 int main(int argc, char *argv[])
 {
 	int i, sum = 0;
-	
+
 	if (argc < 2)
 	{
 		printf("0\n");
