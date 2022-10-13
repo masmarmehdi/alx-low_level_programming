@@ -13,10 +13,9 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	unsigned int i;
 	char *value;
 
+	va_start(ap, n);
 	if (separator != NULL)
 	{
-		va_start(args, n);
-
 		for (i = 0; i < n; i++)
 		{
 			value = va_arg(args, char*);
